@@ -1,3 +1,5 @@
+<h1>Para probar el modelo, tiene que ir a la clase Camera.py llamar la funcion star con el path de del modelo models/model-prueba-v0.0.2.pth</h1>
+
 <h1>VADCC</h1>
 <p>Este repositorio contiene el código fuente del modelo utilizado por la Raspberry Pi 4B para predecir:</p>
 <ul>
